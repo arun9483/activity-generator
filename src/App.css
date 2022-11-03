@@ -1,0 +1,20 @@
+#root {
+  margin: 20px 0 0 0;
+  padding: 0;
+  border: 0;
+  position: relative;
+}
+
+.App header {
+  text-align: center;
+}
+
+.title-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+}
+
+.title-container .title {
+  margin-right: 10px;
+}
